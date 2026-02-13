@@ -68,7 +68,7 @@ nav a{
     padding-left: 400px;
     padding-right: 400px;
     font-size: 40px;
-    padding-top: 100px;
+    /* padding-top: 100px; */
 }
 .option{
     height: 50px;
@@ -180,4 +180,5 @@ footer .foot{
 }
 .link1:hover{
     text-decoration: underline;
+
 }
