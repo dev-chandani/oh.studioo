@@ -136,6 +136,7 @@ footer{
 footer h2{
     color: black;
     font-size: 40px;
+    padding-top:50px;
 }
 footer span{
     color: #7f7f7f;
@@ -182,3 +183,4 @@ footer .foot{
     text-decoration: underline;
 
 }
+
